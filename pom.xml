@@ -65,6 +65,8 @@
             <groupId>com.trophonix</groupId>
             <artifactId>PluginBase</artifactId>
             <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${res}/PluginBase-1.0.jar</systemPath>
         </dependency>
 
         <dependency>
